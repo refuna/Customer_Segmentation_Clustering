@@ -1,5 +1,3 @@
-# Customer_Segmentation_Clustering
-
 # Customer Segmentation using Unsupervised Clustering
 
 This project utilizes unsupervised clustering to segment customers from a grocery firm's database. The aim is to identify customer groups based on similar characteristics and behaviors, allowing the business to optimize product offerings and enhance customer engagement.
